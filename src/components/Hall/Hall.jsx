@@ -5,7 +5,7 @@ import{ FaInstagram, FaGithub, FaLinkedinIn } from 'react-icons/fa';
 const Hall = () => {
   return (
     <div id='hall'>
-        <img className='w-full h-screen object-cover scale-x-[-1]' src="/wallpaper1.jpg" />
+        <img className='w-full h-screen object-cover scale-x-[-1]' src="wallpaper1.jpg" />
         <div className='w-full h-screen absolute top-0 left-0 bg-white/50'>
           <div className='max-w-[700px] m-auto h-full w-full flex flex-col justify-center lg:items-center /* or start */ items-center'>
             <p className='sm:text-xl text-2xl text-gray-800'>Hi there👋, I'm</p>
